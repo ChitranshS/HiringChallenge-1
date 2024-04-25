@@ -46,7 +46,10 @@ I will be discussing the chain of thought I had on the problems statement the fi
 - **1st step** : The user may upload any image of their liking meaning that we would required to segment the image to get the input image that we need to proceed ahead with. Using SAM by Meta or Mask-RCNN was my first thought but then I saw the sample inputs they were already easier to segment so I immediately skipped the segmentation part as it's easily managaeble.
 - **2nd Step** : After we have access to the segmented image perform some detection and classify the object and perform some feature extraction which will make it easier to understand about the product and thus help in generating the AI-generated environment.
 - **3rd Step** : To preserve the brand logo and identity use Specialised-OCR tools like tesseract or something else and further explore how to preserve this.
-- **4th Step** : 
+- **4th Step** : Finding techniques that can be utilized in performing the final act of the show. I found multiple techniques to perform the same task but each varying in it capabilities along with data and computation overheads.Some of them include textual inversion, outpainting and finally the winner ControlNets.
+- **5th Step** : Understanding the requirements for the ControlNets and their applications with multiple models. Before finalising with Stable Diffusion 1.5 I researched on other models including OpenJourneyV4,DallEMini,DeepFloyd.
+- **6th Step** :  I was also considering to explore latent diffusion as it also seems like a very similar technique with competent results but later I went ahead with SD1.5 due to time constraint on my half.
+- **7th Step** : Enough research and architecture planning!! Now I started working on the pipeline and the steps that would be required to make this happen.
 ## Contributing
 
 If you have suggestions to improve this notebook, your contributions are welcome! Follow these steps:
