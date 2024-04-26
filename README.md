@@ -26,6 +26,7 @@ Welcome to my repository for the MarbleAI Hiring Challenge. This repository incl
 - [Features](#features)
 - [Results](#results)
    - [First Iteration of Approach](#first-iteration-of-approach)
+   - [Second Iteration of Approach](#second-iteration-of-approach)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
