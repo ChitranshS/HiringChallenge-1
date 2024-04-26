@@ -26,6 +26,26 @@ To access and interact with the notebook:
    - Clone the input_masks files from github and upload them to google collab under a new folder named upload
    - Start running the script
    - Make sure that the image uploaded by the user and the one mentioned below in the script are same.
+   - 
+## Product 1
+![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/cat_file.png)
+![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/variations.png)
+
+## Product 2
+![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/product2.png)
+![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/Product2Variations.png)
+
+## Product 3
+![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/product2.png)
+![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/Product2Variations.png)
+
+## Product 4
+![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/product2.png)
+![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/Product2Variations.png)
+
+## Product 5
+![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/product2.png)
+![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/Product2Variations.png)
 
 ## Features
 
