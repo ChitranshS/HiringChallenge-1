@@ -33,7 +33,7 @@ To access and interact with the notebook:
 
 This notebook includes the following solutions and features:
 
-- **CLIP Functionality**: I was planning to initially not use this but after a small test the results were drastically improved so I added CLIP to the preprocessing stage and got the word embeddings related to the product to preserve brand identity and product features that would be utilised later in the generation step.
+- **CLIP Functionality** _(Image-text-extraction)_: I was planning to initially not use this but after a small test the results were drastically improved so I added CLIP to the preprocessing stage and got the word embeddings related to the product to preserve brand identity and product features that would be utilised later in the generation step.
   
 - **Controlled Generation**: Here I am using ControlNet V1.1 along with Stable Diffusion 1.5 to get an controlled output by generating around the Mask that is preserved by this technique.The generation for the background is prompt-controlled. Other techniques such as image to image translation can be incorporated for using an studio-setup image as a reference.
   
