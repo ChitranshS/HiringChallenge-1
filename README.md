@@ -104,6 +104,7 @@ This notebook includes the following solutions and features:
 
 
 # Second Iteration of Approach
+This time I added some products that I own to test the approach and analyze it's strengths and shortcomings if any.
 ### Product A
 <div>
 
