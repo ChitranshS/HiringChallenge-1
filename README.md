@@ -122,7 +122,7 @@ This notebook includes the following solutions and features:
    <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/lotion-4.png" width=100% height=100%>
 </div>
 
-### Product C
+### Product C (Mouse on my table)
 <div>
      <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/mouse-3.png" width=100% height=100%>
    <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/mouse-5.png" width=100% height=100%>
@@ -153,6 +153,13 @@ This notebook includes the following solutions and features:
    <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/shoes-4.png" width=100% height=100%>
    <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/shoes-5.png" width=100% height=100%>
    <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/shoes-3.png" width=100% height=100%>
+
+</div>
+
+### Product G
+<div>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/shaker-2.png" width=100% height=100%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/shaker-4.png" width=100% height=100%>
 
 </div>
 
