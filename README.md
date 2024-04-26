@@ -71,33 +71,33 @@ This notebook includes the following solutions and features:
 ## First Iteration of Approach
 ### Product 1
 <div>
-   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/cat_file.png" width=30% height=30%>
-<img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/variations.png" width=60% height=60%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/cat_file.png" width=30% height=30%>
+<img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/variations.png" width=60% height=60%>
 </div>
 
 ### Product 2
 <div>
-   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/product2.png" width=30% height=30%>
-<img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/Product2Variations.png" width=60% height=60%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/product2.png" width=30% height=30%>
+<img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/Product2Variations.png" width=60% height=60%>
 </div>
 
 ### Product 3
 <div>
-   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/Product3.png" width=30% height=30%>
-<img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/Product3Variations.png" width=60% height=60%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/Product3.png" width=30% height=30%>
+<img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/Product3Variations.png" width=60% height=60%>
 </div>
 
 ### Product 4
 
 <div >
 <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/product4Variation/product4Variation.png" width=30% height=30%>
-<img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/product4.png" width=60% height=60%>
+<img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/product4.png" width=60% height=60%>
 </div>
 
 ### Product 5
 <div>
-<img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/product5.png" width=30% height=30%>
-<img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/Product5Variations.png" width=60% height=60%>
+<img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/product5.png" width=30% height=30%>
+<img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/Product5Variations.png" width=60% height=60%>
 </div>
 # Second Iteration of Approach
 
