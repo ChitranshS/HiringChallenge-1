@@ -1,7 +1,25 @@
 # Hiring Challenge Solutions
 
 Welcome to my repository for the MarbleAI Hiring Challenge. This repository includes a Google Colab notebook that contains my solutions to the given challenges, focusing on the given problem by using ControlNets along with StableDiffusion for achieving the end goal.
-
+# TL;DR (Ai-Generated)
+- **Repository Purpose**: Solutions for MarbleAI Hiring Challenge.
+- **Approach Highlights**:
+    - Utilized ControlNets and StableDiffusion.
+    - Integrated CLIP for improved results.
+    - Focused on controlled generation and lighting preservation.
+    - Retained brand identity.
+    - Planned for multiple angle generation.
+- **Features**:
+    - CLIP Functionality.
+    - Controlled Generation.
+    - Lighting Conditions Preservation.
+    - Brand Identity Retention.
+    - Variational Angles and Multiple Angles.
+    - Shadows & Reflections Handling.
+- **Inference Time**: Under 3 minutes using T4-supported notebook in Colab.
+- **Solution Development**:
+    - Initial Thoughts included segmentation and object classification.
+    - Final Approach incorporated CLIP, dynamic background generation, and ControlNets.
 ## Table of Contents
 
 - [Opening the Notebook](#opening-the-notebook)
