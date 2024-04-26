@@ -103,36 +103,59 @@ This notebook includes the following solutions and features:
 
 
 # Second Iteration of Approach
-### Camera
+### Product A
 <div>
+
    <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/camera-2.png" width=100% height=100%>
    <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/camera-5.png" width=100% height=100%>
+   
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/camera-3.png" width=100% height=100%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/camera-7.png" width=100% height=100%>
+
 </div>
 
-### Product 2
+### Product B
 <div>
-   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/product2.png" width=30% height=30%>
-<img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/Product2Variations.png" width=60% height=60%>
+      <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/lotion-2.png" width=100% height=100%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/lotion-5.png" width=100% height=100%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/lotion-3.png" width=100% height=100%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/lotion-4.png" width=100% height=100%>
 </div>
 
-### Product 3
+### Product C
 <div>
-   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/Product3.png" width=30% height=30%>
-<img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/Product3Variations.png" width=60% height=60%>
+     <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/mouse-3.png" width=100% height=100%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/mouse-5.png" width=100% height=100%>
 </div>
 
-### Product 4
+### Product D
 
 <div >
-<img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/product4Variation/product4Variation.png" width=30% height=30%>
-<img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/product4.png" width=60% height=60%>
+ <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/ring-6.png" width=100% height=100%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/ring-5.png" width=100% height=100%>
+   
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/ring-3.png" width=100% height=100%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/ring-7.png" width=100% height=100%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/ring-8.png" width=100% height=100%>
+
 </div>
 
-### Product 5
+### Product E
 <div>
-<img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/product5.png" width=30% height=30%>
-<img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/Product5Variations.png" width=60% height=60%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/soap-1.png" width=100% height=100%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/soap-2.png" width=100% height=100%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/soap-5.png" width=100% height=100%>
 </div>
+
+### Product F
+<div>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/shoes-1.png" width=100% height=100%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/shoes-4.png" width=100% height=100%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/shoes-5.png" width=100% height=100%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/shoes-3.png" width=100% height=100%>
+
+</div>
+
 ## Solution/Approach
 I will be discussing the chain of thought I had on the problems statement the first time I read it and also what I was able to implement and how much was I able to achieve in this small span of 2 days.
 ### Initial Thoughts (**You may skip the initial thoughts to see the final approach**)
