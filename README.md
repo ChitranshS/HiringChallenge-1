@@ -40,8 +40,9 @@ To access and interact with the notebook:
 ![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/Product3Variations.png)
 
 ## Product 4
+![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/product4Variation/product4Variation.png)
 ![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/product4.png)
-![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/product4Variations.png)
+
 
 ## Product 5
 ![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/product5.png)
