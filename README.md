@@ -107,7 +107,7 @@ This notebook includes the following solutions and features:
 <div>
 
    <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/camera-2.png" width=100% height=100%>
-   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/camera-5.png" width=100% height=100%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/camera-6.png" width=100% height=100%>
    
    <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/camera-3.png" width=100% height=100%>
    <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/camera-7.png" width=100% height=100%>
