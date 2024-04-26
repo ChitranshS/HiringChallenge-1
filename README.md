@@ -15,7 +15,7 @@ Welcome to my repository for the MarbleAI Hiring Challenge. This repository incl
 To access and interact with the notebook:
 
 1. Open the notebook in Google Colab:
-   - [Hiring Challenge Notebook](https://github.com/ChitranshS/HiringChallenge-1/blob/main/Hiring_Challenge.ipynb)
+   - [Hiring Challenge Notebook](https://github.com/ChitranshS/HiringChallenge-1/blob/main/Hiring_Challenge_2.ipynb)
    - Click on the link to view the notebook directly in your browser.
 
 2. To run the notebook:
