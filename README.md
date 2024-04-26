@@ -36,16 +36,18 @@ To access and interact with the notebook:
 ![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/Product2Variations.png)
 
 ## Product 3
-![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/product2.png)
-![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/Product2Variations.png)
+![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/Product3.png)
+![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/Product3Variations.png)
 
 ## Product 4
-![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/product2.png)
-![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/Product2Variations.png)
+![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/product4.png)
+![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/product4Variations.png)
 
 ## Product 5
-![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/product2.png)
-![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/Product2Variations.png)
+![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/product5.png)
+![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/Product5Variations.png)
+![](https://github.com/ChitranshS/HiringChallenge-1/blob/main/Product5Variations1.png)
+
 
 ## Features
 
