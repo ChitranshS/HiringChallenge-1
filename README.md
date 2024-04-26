@@ -22,6 +22,10 @@ To access and interact with the notebook:
    - Make sure you are logged into your Google account.
    - Click on `Copy to Drive` button at the top to save a copy of the notebook to your Google Drive.
    - You can now run and edit the notebook cells.
+3. To run the inference on the images:
+   - Clone the input_masks files from github and upload them to google collab under a new folder named upload
+   - Start running the script
+   - Make sure that the image uploaded by the user and the one mentioned below in the script are same.
 
 ## Features
 
