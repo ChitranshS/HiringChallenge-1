@@ -101,6 +101,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [Your email](mailto:chitransh0210@gmail.com)
+Chitransh Srivastava - [chitransh0210@gmail.com](mailto:chitransh0210@gmail.com)
 
 Project Link: [https://github.com/ChitranshS/HiringChallenge-1](https://github.com/ChitranshS/HiringChallenge-1)
