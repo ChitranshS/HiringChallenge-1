@@ -1,6 +1,7 @@
 # Hiring Challenge Solutions
 
-Welcome to my repository for the MarbleAI Hiring Challenge. This repository includes a Google Colab notebook that contains my solutions to the given challenges, focusing on the given problem by using ControlNets along with StableDiffusion for achieving the end goal.
+- Welcome to my repository for the MarbleAI Hiring Challenge. 
+- This repository includes a Google Colab notebook that contains my solutions to the given challenges, focusing on the given problem by using ControlNets along with StableDiffusion for achieving the end goal.
 # TL;DR (Ai-Generated)
 - **Repository Purpose**: Solutions for MarbleAI Hiring Challenge.
 - **Approach Highlights**:
