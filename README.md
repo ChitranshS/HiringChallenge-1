@@ -106,13 +106,14 @@ This notebook includes the following solutions and features:
 # Second Iteration of Approach
 This time I added some products that I own to test the approach and analyze it's strengths and shortcomings if any.
 ### Product A
-<div>
 
-   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/camera-2.png" width=100% height=100%>
-   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/camera-6.png" width=100% height=100%>
+<div >
+ <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/ring-6.png" width=100% height=100%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/ring-5.png" width=100% height=100%>
    
-   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/camera-5.png" width=100% height=100%>
-   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/camera-7.png" width=100% height=100%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/ring-3.png" width=100% height=100%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/ring-7.png" width=100% height=100%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/ring-8.png" width=100% height=100%>
 
 </div>
 
@@ -132,13 +133,12 @@ This time I added some products that I own to test the approach and analyze it's
 
 ### Product D
 
-<div >
- <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/ring-6.png" width=100% height=100%>
-   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/ring-5.png" width=100% height=100%>
-   
-   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/ring-3.png" width=100% height=100%>
-   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/ring-7.png" width=100% height=100%>
-   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/ring-8.png" width=100% height=100%>
+
+<div>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/shoes-1.png" width=100% height=100%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/shoes-4.png" width=100% height=100%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/shoes-5.png" width=100% height=100%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/shoes-3.png" width=100% height=100%>
 
 </div>
 
@@ -151,10 +151,12 @@ This time I added some products that I own to test the approach and analyze it's
 
 ### Product F
 <div>
-   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/shoes-1.png" width=100% height=100%>
-   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/shoes-4.png" width=100% height=100%>
-   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/shoes-5.png" width=100% height=100%>
-   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/shoes-3.png" width=100% height=100%>
+
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/camera-2.png" width=100% height=100%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/camera-6.png" width=100% height=100%>
+   
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/camera-5.png" width=100% height=100%>
+   <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/camera-7.png" width=100% height=100%>
 
 </div>
 
