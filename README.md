@@ -17,10 +17,32 @@
     - Brand Identity Retention.
     - Variational Angles and Multiple Angles.
     - Shadows & Reflections Handling.
-- **Inference Time**: Under 3 minutes using T4-supported notebook in Colab.
+
+- **The initial approach involved**:
+    
+    - Segmenting the image to extract the product
+    - Detecting and classifying objects, and extracting features
+    - Preserving brand logo and identity using OCR tools
+    - Exploring techniques such as textual inversion, outpainting, and ControlNets for environment generation
+    - Researching models including Stable Diffusion 1.5, OpenJourneyV4, Dall-E Mini, and DeepFloyd
+
+- **The final implementation involved**:
+
+    - Testing the CLIP model and achieving promising results
+    - Removing the background of the input image using rembg
+    - Implementing CLIP and using the embeddings to understand the product
+    - Generating dynamic prompts using Llama-3 and ControlNets
+    - Generating the background using ControlNets and preserving physical features
+    - Randomizing guidance scale and steps to introduce variation
+    - Implementing histogram equalization to match lighting conditions
+    - Resizing and merging the mask and generated image
+
+- **Inference Time**: Under 4 minutes using T4-supported notebook in Colab.
+- **Results**: The final implementation achieved generation of environments within a timeframe of under 4 minutes, with increased creativity and adaptability
 - **Solution Development**:
     - Initial Thoughts included segmentation and object classification.
     - Final Approach incorporated CLIP, dynamic background generation, and ControlNets.
+  <br><br>
 ## Table of Contents
 
 - [Opening the Notebook](#opening-the-notebook)
@@ -31,6 +53,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+<br><br>
 
 ## Opening the Notebook
 
@@ -48,7 +71,7 @@ To access and interact with the notebook:
    - Connect to a T4 instance and then follow the instructions mentioned in the notebook
    - Start running the script
    - **There would be some user-controlled parameters so please read it through**
-  
+  <br><br>
 ## Features
 
 This notebook includes the following solutions and features:
@@ -68,7 +91,7 @@ This notebook includes the following solutions and features:
 - **Shadows & Reflections** : The hard part are the reflections as they are basically information which in replicated on an generated surface with almost equal or less detail in the generation along with some noise/distortion to make it more believable.Regarding the shadows they are preserved again by the CLIP functionality and also I plan to incorporate the Depth Map of some images as well for testing.
   
 - **Inference Time**: Using a T4-supported notebook in Colab, the entire image generation (5 sample images per input) process completes in under 3 minutes, significantly faster than the anticipated maximum of 10 minutes.
-
+<br><br><br><br>
 # Results
 ## First Iteration of Approach
 ### Product 1
@@ -102,10 +125,17 @@ This notebook includes the following solutions and features:
 <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/Product5Variations.png" width=60% height=60%>
 </div>
 
-
+<br>
+<div>Now let us move towards the next approach I had in mind</div>
+<br><br>
 
 # Second Iteration of Approach
-This time I added some products that I own to test the approach and analyze it's strengths and shortcomings if any.
+- This time I added some products that I own to test the approach and analyze it's strengths and shortcomings if any.
+- I believe we can do better than this iteration as well we can include techniques such as feedback loops using the generated images and then [Textual Inversion](https://arxiv.org/pdf/2208.01618) techniques to further enhance the performance
+- I think here we can use the generated images as inputs and also ask the client to upload multiple angles to do even create other merchandise as can be seen in the cat image below or in a similar sense
+<img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/re-1.png" width=100% height=100% >
+
+
 ### Product A
 
 <div >
@@ -167,6 +197,7 @@ This time I added some products that I own to test the approach and analyze it's
    <img src ="https://github.com/ChitranshS/HiringChallenge-1/blob/main/assets/images/shaker-4.png" width=100% height=100%>
 
 </div>
+<br><br>
 
 ## Solution/Approach
 I will be discussing the chain of thought I had on the problems statement the first time I read it and also what I was able to implement and how much was I able to achieve in this small span of 2 days.
@@ -181,13 +212,16 @@ I will be discussing the chain of thought I had on the problems statement the fi
 - **7th Step** : Enough research and architecture planning!! Now I started working on the pipeline and the steps that would be required to make this happen.
   
 ### Final Thoughs before Submission
-- **1st Step** : Came to know about CLIP and then proceeded with it and then got amazing results in preserving the product features and then had an idea about dynamic background spaces.
-- **2nd Step** : Implemented CLIP and then the embeddings attained from it were used to understand the product better thus generate an environment better suited to it along with good repetition penalty to avoid similar ideas for the virtual product environment.
-- **3rd Step** : Used open source models such as LLama-3-70b for generating prompts for dynamic environment generation i.e. using Llama-3 to generate better and creative prompts based on the CLIP information along with high temperature parameter to get more better ideas and prompts for background generation.
-- **4th Step** : Using the dynamic prompts generated by Llama-3 to now generate the background for our product image using the ControlNets. Using canny to preserve the physical features of the product thus mimicking the exact dimensionality in generation which would later help in replacement by masking.
-- **5th Step** : Using the mask of the intial product image and the new generated image to merge them together under one image.
-- **6th Step** : Resizing the mask to match the dimension of the generated image.
-- **7th Step** : Testing the entire process for a small batch of products and getting results of generation well under 4 minutes provided we increase the creativity of the model. Under default settings the script performs the required taks well under two minutes.
+- **1st Step** : Tested the CLIP model and then proceeded with it and then got amazing results in preserving the product features and then had an idea about dynamic background spaces.
+- **2nd Step** : Applied a rembg library to remove the background of the input image thus making it perfect for further preprocessing
+- **3nd Step** : Implemented CLIP and then the embeddings attained from it were used to understand the product better thus generate an environment better suited to it along with good repetition penalty to avoid similar ideas for the virtual product environment.
+- **4rd Step** : Used open source models such as LLama-3-70b for generating prompts for dynamic environment generation i.e. using Llama-3 to generate better and creative prompts based on the CLIP information along with high temperature parameter to get more better ideas and prompts for background generation.
+- **5th Step** : Using the dynamic prompts generated by Llama-3 to now generate the background for our product image using the ControlNets. Using canny to preserve the physical features of the product thus mimicking the exact dimensionality in generation which would later help in replacement by masking.
+- **6th Step** Randomizing the guidance scale and the number of steps within a limited range to test the model and add some variation in the generation model.
+- **7th Step** : Planning to efficiently implement histogram equalization to better match the lighting conditions of the mask image and the generated background.
+- **8th Step** : Resizing the mask to match the dimension of the generated image.
+- **8th Step** : Using the mask of the intial product image and the new generated image to merge them together under one image.
+- **9th Step** : Testing the entire process for a small batch of products and getting results of generation well under 4 minutes provided we increase the creativity of the model. Under default settings the script performs the required taks well under two minutes.
 ## Contributing
 
 If you have suggestions to improve this notebook, your contributions are welcome! Follow these steps:
